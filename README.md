@@ -58,7 +58,7 @@ Ce fichier contient les différents modèles que nous avons implémentés afin d
 
 **MODELS FINE TUNING**
 
-Ce fichier contient la méthode et les résultats obtenus en faisant du transfert de connaissance avec des modèles performants déjà pré-entraînés.
+Ce fichier contient la méthode et les résultats obtenus en faisant du transfert de connaissances en utilisant des modèles performants déjà pré-entraînés.
 
 **TRADUCTION**
 
