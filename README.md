@@ -45,6 +45,7 @@ pip install <nom librairie>
 Nous avons organisé notre travail en trois notebooks : 
 - data.ipynb
 - models.ipynb
+- modelsFineTuning.ipynb
 - traduction.ipynb
 
 **DATA**
@@ -53,7 +54,11 @@ Ce fichier contient toutes les informations nécessaires afin de récupérer les
 
 **MODELS**
 
-Ce fichier contient les différents modèles que nous avons implémentés afin d'entraîner notre réseau de neurones. On y retrouve une analyse de chaque modèle. 
+Ce fichier contient les différents modèles que nous avons implémentés afin d'entraîner notre réseau de neurones. On y retrouve une analyse de chaque modèle.
+
+**MODELS FINE TUNING**
+
+Ce fichier contient la méthode et les résultats obtenus en faisant du transfert de connaissance avec des modèles performants déjà pré-entraînés.
 
 **TRADUCTION**
 
